@@ -1,0 +1,23 @@
+{
+  "name": "i-18-n",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "i18n": "^0.13.4",
+    "i18nexus-cli": "^2.0.2",
+    "next": "12.0.7",
+    "next-i18next": "^10.2.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "swr": "^1.1.2"
+  },
+  "devDependencies": {
+    "eslint": "8.6.0",
+    "eslint-config-next": "12.0.7"
+  }
+}
